@@ -8,8 +8,8 @@ Specialist Doctor Directory Microservice responsible for doctor profiles, specia
 |---|---|
 | Student Name | Matheesha Abiman |
 | Student Number | 241722050 |
-| Slack Handle | [YOUR SLACK HANDLE - OPTIONAL] |
-| GCP Project ID | `[YOUR GCP PROJECT ID]` |
+| Slack Handle | Matheesha Abiman |
+| GCP Project ID | medicare-healthsync-project |
 
 
 ## Project Description
